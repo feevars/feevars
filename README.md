@@ -21,10 +21,10 @@ Today, I work as a **Senior Java Developer at Ericsson**, where I contribute to 
 ## 🚀 Technologies & Tools
 
 - **Back-end**: Java (Spring Boot, Hibernate), Python, JUnit
-- **Front-end & UX**: UI/UX, Interface Design, Intuitive Navigation
-- **Database**: Oracle, SQL, NoSQL
+- **Front-end & UX**: UI/UX, Interface Design, Intuitive Navigation, Figma, Angular
+- **Database**: Oracle, SQL, NoSQL, MySQL, PostgreSQL
 - **Data & AI**: Data Engineering, Machine Learning, AI Agents
-- **Tools**: Git, Jenkins, Docker, and more
+- **Tools**: Git, Jenkins, Docker, Terraform and more
 
 ---
 
