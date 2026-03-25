@@ -14,7 +14,7 @@
 
 I'm a Systems Analysis and Development Technologist, currently pursuing postgraduate studies in **Data Engineering** (DSA) and **AI/ML**. My journey in tech started in 2018, and ever since I've been combining back-end robustness with front-end sensibility to build solutions that truly make sense for the people using them.
 
-Today, I work as a **Senior Java Developer at Ericsson**, where I contribute to billing and customer care systems. I design graphical interface solutions in collaboration with the architecture team, drive internal improvements through AI agents, and advocate for clean, testable code (JUnit).
+Today, I work as a **Senior Java Developer**, where I contribute to customer care systems. I design graphical interface solutions in collaboration with the architecture team, drive internal improvements through AI agents, and advocate for clean, testable code (JUnit).
 
 ---
 
