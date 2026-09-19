@@ -36,17 +36,21 @@ Today, I work as a **Senior Java Developer**, where I contribute to customer car
 
 ---
 
-## 📊 Personal Project
+## 📊 Personal Project — QVTPop
 
-<!-- Badge for the project -->
 <p align="left">
-  <img src="https://img.shields.io/badge/status-work_in_progress-yellow?style=flat-square" alt="WIP"/>
-  <img src="https://img.shields.io/badge/focus-elections-blue?style=flat-square" alt="Elections"/>
+  <img src="https://img.shields.io/badge/status-active%20development-yellow?style=flat-square" alt="Active Development"/>
+  <img src="https://img.shields.io/badge/focus-civic%20tech-blue?style=flat-square" alt="Civic Tech"/>
+  <img src="https://img.shields.io/badge/built%20with-Java-orange?style=flat-square" alt="Java"/>
 </p>
 
-I'm currently building a project to make **Brazilian election candidate information** more accessible and easier to explore. The goal is to transform open data into a clean, user-friendly interface that helps citizens better understand who is running for office.
+**QVTPop** is a civic technology platform I'm building to make **Brazilian election data more accessible and easier to explore**.
 
-_More details and the repository will be shared soon!_
+It organizes public electoral data into a centralized experience where users can explore **elections, offices, candidates, proposals, declared assets, electoral history, and more**.
+
+The project is also a practical exploration of **software architecture, distributed systems, data engineering, UX/UI, and AI**, built with a small team and a strong focus on usability.
+
+🌐 **https://qvtpop.social.br**
 
 ---
 
